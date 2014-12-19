@@ -1,0 +1,49 @@
+﻿Build started 12/19/2014 11:45:34 AM.
+     1>Project "C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Operation Snow (COPY -- might FUCK UP)\CanadianExperience\CanadianExperience\CanadianExperience.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Operation Snow (COPY -- might FUCK UP)\CanadianExperience\TextBubbleLib" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CanadianExperience.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Snowflake.cpp
+         Snowflake.cpp
+     1>c:\users\gabriel\documents\visual studio 2013\projects\operation snow (copy -- might fuck up)\canadianexperience\canadianexperience\snowflake.cpp(33): warning C4244: 'argument' : conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+     1>c:\users\gabriel\documents\visual studio 2013\projects\operation snow (copy -- might fuck up)\canadianexperience\canadianexperience\snowflake.cpp(58): warning C4244: 'argument' : conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+     1>c:\users\gabriel\documents\visual studio 2013\projects\operation snow (copy -- might fuck up)\canadianexperience\canadianexperience\snowflake.cpp(99): warning C4244: 'argument' : conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Operation Snow (COPY -- might FUCK UP)\CanadianExperience\Debug\CanadianExperience.exe" /INCREMENTAL /NOLOGO "C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Operation Snow (COPY -- might FUCK UP)\CanadianExperience\Debug\TextBubbleLib.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Operation Snow (COPY -- might FUCK UP)\CanadianExperience\Debug\CanadianExperience.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Operation Snow (COPY -- might FUCK UP)\CanadianExperience\Debug\CanadianExperience.lib" /MACHINE:X86 Debug\CanadianExperience.res
+         Debug\Actor.obj
+         Debug\ActorFactory.obj
+         Debug\AnimChannel.obj
+         Debug\AnimChannelAngle.obj
+         Debug\AnimChannelMirror.obj
+         Debug\AnimChannelPoint.obj
+         Debug\AnimChannelText.obj
+         Debug\CanadianExperience.obj
+         Debug\Drawable.obj
+         Debug\HaroldFactory.obj
+         Debug\HeadTop.obj
+         Debug\ImageDrawable.obj
+         Debug\LinkedList.obj
+         Debug\LinkedListActive.obj
+         Debug\LinkedListPool.obj
+         Debug\MainFrm.obj
+         Debug\Picture.obj
+         Debug\PictureFactory.obj
+         Debug\PictureObserver.obj
+         Debug\PolyDrawable.obj
+         Debug\RotatedBitmap.obj
+         Debug\Snowflake.obj
+         Debug\SnowflakeSystem.obj
+         Debug\SpartyFactory.obj
+         Debug\stdafx.obj
+         Debug\TextBubbleDrawable.obj
+         Debug\Timeline.obj
+         Debug\TimelineDlg.obj
+         Debug\ViewActors.obj
+         Debug\ViewEdit.obj
+         Debug\ViewTimeline.obj
+         Debug\ViewTop.obj
+         Debug\XmlNode.obj
+         CanadianExperience.vcxproj -> C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Operation Snow (COPY -- might FUCK UP)\CanadianExperience\Debug\CanadianExperience.exe
+     1>Done Building Project "C:\Users\Gabriel\Documents\Visual Studio 2013\Projects\Operation Snow (COPY -- might FUCK UP)\CanadianExperience\CanadianExperience\CanadianExperience.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:01:01.07
